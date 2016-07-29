@@ -1,9 +1,0 @@
-[submodule "the-meaning-of-an-object"]
-	path = the-meaning-of-an-object
-	url = https://github.com/mykedean/the-meaning-of-an-object.git
-[submodule "sleep-variations"]
-	path = sleep-variations
-	url = https://github.com/mykedean/sleep-variations.git
-[submodule "skeletal-wires"]
-	path = skeletal-wires
-	url = https://github.com/mykedean/skeletal-wires.git
