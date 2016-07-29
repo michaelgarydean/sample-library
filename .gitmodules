@@ -4,3 +4,6 @@
 [submodule "sleep-variations"]
 	path = sleep-variations
 	url = https://github.com/mykedean/sleep-variations.git
+[submodule "skeletal-wires"]
+	path = skeletal-wires
+	url = https://github.com/mykedean/skeletal-wires.git
