@@ -7,3 +7,6 @@
 [submodule "projects/the-meaning-of-an-object"]
 	path = projects/the-meaning-of-an-object
 	url = https://github.com/mykedean/the-meaning-of-an-object.git
+[submodule "projects/fryxellsee-opt"]
+	path = projects/fryxellsee-opt
+	url = https://github.com/mykedean/fryxellsee-opt.git
