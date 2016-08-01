@@ -11,7 +11,8 @@ Audio sample library taken from projects created for the Wiklow downtempo music 
 - The upper level projects directory compiles samples created from various production projects, such as an EP or performance
 - The recording-projects directory in the library directory is for sampling projects, studio sessions or research/development that were not created as a by-product of some composition project.
 
-# Samples within production projects should be organized into the following categories:
+# Categorization
+Samples within production projects should be organized into the following categories:
 - Length
 	- Samples	- Short, one shot samples. Often percussion.
 	- Loops		- Samples of a few seconds or measures intended to be looped.
