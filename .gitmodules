@@ -10,3 +10,6 @@
 [submodule "projects/fryxellsee-opt"]
 	path = projects/fryxellsee-opt
 	url = https://github.com/mykedean/fryxellsee-opt.git
+[submodule "library/recording-projects/eastern-townships"]
+	path = library/recording-projects/eastern-townships
+	url = https://github.com/mykedean/eastern-townships.git
